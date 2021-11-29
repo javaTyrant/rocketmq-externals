@@ -1,0 +1,10 @@
+org\apache\rocketmq\connect\file\FileUtils.class
+org\apache\rocketmq\connect\file\LoggerName.class
+org\apache\rocketmq\connect\file\FileConfig$1.class
+org\apache\rocketmq\connect\file\FileConfig.class
+org\apache\rocketmq\connect\file\FileSourceConnector.class
+org\apache\rocketmq\connect\file\FileSourceTask.class
+org\apache\rocketmq\connect\file\FileConstants.class
+org\apache\rocketmq\connect\file\FileSinkConnector.class
+org\apache\rocketmq\connect\file\FileSinkTask.class
+org\apache\rocketmq\connect\file\FileSourceTask$1.class

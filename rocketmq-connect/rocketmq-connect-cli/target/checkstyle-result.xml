@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\command\CreateConnectorSubCommand.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\command\GetAllocatedConnectors.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\command\GetAllocatedInfoCommand.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\command\GetAllocatedTasks.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\command\GetClusterInfoSubCommand.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\command\GetConfigInfoSubCommand.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\command\QueryConnectorConfigSubCommand.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\command\QueryConnectorStatusSubCommand.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\command\ReloadPluginsSubCommand.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\command\StopAllSubCommand.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\command\StopConnectorSubCommand.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\command\SubCommand.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\commom\CLIConfigDefine.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\commom\Config.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\commom\ConnectKeyValue.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\ConnectAdminStartup.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\utils\FileAndPropertyUtil.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\utils\RestSender.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-cli\src\main\java\org\apache\rocketmq\connect\cli\utils\ServerUtil.java">
+</file>
+</checkstyle>

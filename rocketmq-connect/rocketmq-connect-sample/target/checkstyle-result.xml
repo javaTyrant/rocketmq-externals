@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-sample\src\main\java\org\apache\rocketmq\connect\file\FileConfig.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-sample\src\main\java\org\apache\rocketmq\connect\file\FileConstants.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-sample\src\main\java\org\apache\rocketmq\connect\file\FileSinkConnector.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-sample\src\main\java\org\apache\rocketmq\connect\file\FileSinkTask.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-sample\src\main\java\org\apache\rocketmq\connect\file\FileSourceConnector.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-sample\src\main\java\org\apache\rocketmq\connect\file\FileSourceTask.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-sample\src\main\java\org\apache\rocketmq\connect\file\FileUtils.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-sample\src\main\java\org\apache\rocketmq\connect\file\LoggerName.java">
+</file>
+</checkstyle>

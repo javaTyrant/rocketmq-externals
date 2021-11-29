@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\common\ConnAndTaskConfigs.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\common\ConnectKeyValue.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\common\LoggerName.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\config\ConnectConfig.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\config\RuntimeConfigDefine.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\ConnectController.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\connectorwrapper\Worker.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\connectorwrapper\WorkerConnector.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\connectorwrapper\WorkerDirectTask.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\connectorwrapper\WorkerSinkTask.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\connectorwrapper\WorkerSourceTask.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\connectorwrapper\WorkerState.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\connectorwrapper\WorkerTask.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\connectorwrapper\WorkerTaskState.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\ConnectStartup.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\converter\ByteBufferConverter.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\converter\ByteConverter.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\converter\ByteMapConverter.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\converter\ConnAndTaskConfigConverter.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\converter\JsonConverter.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\converter\ListConverter.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\converter\RocketMQConverter.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\rest\RestHandler.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\service\ClusterManagementService.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\service\ClusterManagementServiceImpl.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\service\ConfigManagementService.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\service\ConfigManagementServiceImpl.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\service\DefaultConnectorContext.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\service\OffsetManagementServiceImpl.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\service\PositionManagementService.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\service\PositionManagementServiceImpl.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\service\RebalanceImpl.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\service\RebalanceService.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\service\strategy\AllocateConnAndTaskStrategy.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\service\strategy\AllocateConnAndTaskStrategyByConsistentHash.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\service\strategy\DefaultAllocateConnAndTaskStrategy.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\service\TaskPositionCommitService.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\store\FileBaseKeyValueStore.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\store\KeyValueStore.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\store\MemoryBasedKeyValueStore.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\store\PositionStorageReaderImpl.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\utils\ConnectUtil.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\utils\CountDownLatch2.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\utils\datasync\BrokerBasedLog.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\utils\datasync\DataSynchronizer.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\utils\datasync\DataSynchronizerCallback.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\utils\FileAndPropertyUtil.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\utils\FilePathConfigUtil.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\utils\Plugin.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\utils\PluginClassLoader.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\utils\PluginUtils.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\utils\PluginWrapper.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\utils\ServerUtil.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\utils\ServiceThread.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\java\org\apache\rocketmq\connect\runtime\utils\TransferUtils.java">
+</file>
+<file name="D:\IdeaProjects\rocketmq-externals\rocketmq-connect\rocketmq-connect-runtime\src\main\resources\log4j.properties">
+</file>
+</checkstyle>
